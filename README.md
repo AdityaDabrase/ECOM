@@ -40,17 +40,3 @@ In this project, customer reviews from an e-commerce platform are processed and 
 - **TfidfVectorizer**: For converting text into TF-IDF features.
 - **Logistic Regression**: Used for classification of sentiments (positive/negative).
 
-## Installation
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed on your local machine:
-
-- **Python** 3.x
-- **pip** (Python's package installer)
-
-### Steps
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-ecommerce.git
